@@ -20,6 +20,7 @@
 <a href="https://discord.com/users/1045686302454063154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ricky Khairul Faza#7045" height="30" width="40" /></a>
 <a href="https://github.com/rikiteguhmaulana/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="rickyfazaa" height="30" width="30" /></a>
 <a href="https://id.pinterest.com/rikiteguhm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="rikitm" height="30" width="40" /></a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
