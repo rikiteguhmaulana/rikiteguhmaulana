@@ -9,7 +9,7 @@
 - 🌱 Always eager to learn new things and tackle challenges in the tech world.
 - 📫 If you'd like to collaborate or just chat, feel free to reach out to me via email or through the social media listed on this profile.
 - 📫 How to reach me **rikiteguh.m22@gmail.com**
-- ⚡ Fun fact **[Who I am?.](https://instagram.com/rickyfazaa)**
+- ⚡ Fun fact **[Who I am?.](https://instagram.com/rikiitm_)**
 - 😊🚀 Happy coding!
 
 <h3 align="left">Connect with me:</h3>
