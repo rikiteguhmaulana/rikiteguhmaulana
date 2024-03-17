@@ -4,7 +4,7 @@
 
 - 🎓 I'm a Computer Science student at Majalengka University. **[Large Language Model (LLM).](https://aws.amazon.com/id/what-is/large-language-model/)**
 
-- 💻 Currently learning and exploring the world of technology, particularly in software development, web programming, artificial intelligence, and cyber security. **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python basic, Python Fundamentals or Artificial Intelligence (AI).]**
+- 💻 Currently learning and exploring the world of technology, particularly in software development, web programming, artificial intelligence, and cyber security. **[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>]**
 
 - 🌱 Always eager to learn new things and tackle challenges in the tech world.
 - 📫 If you'd like to collaborate or just chat, feel free to reach out to me via email or through the social media listed on this profile.
