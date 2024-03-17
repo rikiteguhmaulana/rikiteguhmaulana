@@ -1,4 +1,4 @@
-# 🚀 Hii!~ I'm **[Riki Teguh Maulana](https://github.com/rikiteguhmaualana/)** 👋👋
+# 🚀 Hii!~ I'm **[Riki Teguh Maulana](https://github.com/rikiteguhmaulana/)** 👋👋
 
 <p><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rikitm" /></p>
 
