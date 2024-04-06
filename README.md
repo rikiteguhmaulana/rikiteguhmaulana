@@ -1,7 +1,5 @@
 # 🚀 Hii!~ I'm **[Riki Teguh Maulana](https://github.com/rikiteguhmaulana/)** 👋👋
 
-<p><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rickyfazaa&show_icons=true&locale=en&layout=compact" alt="rikitm" /></p>
-
 - 🎓 I'm a Computer Science student at Majalengka University. **[Large Language Model (LLM).](https://aws.amazon.com/id/what-is/large-language-model/)**
 
 - 💻 Currently learning and exploring the world of technology, particularly in software development, web programming, artificial intelligence, and cyber security. **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>**
